@@ -1,0 +1,4 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Biografia}{3}
+\contentsline {chapter}{\numberline {2}Premios}{4}
+\contentsline {chapter}{\numberline {3}Fotos}{5}
